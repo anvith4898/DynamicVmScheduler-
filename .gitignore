@@ -1,0 +1,13 @@
+# Build output
+target/
+*.class
+
+# Dependencies / binaries
+*.jar
+
+# Docs / presentations / images (not needed in repo)
+docs/
+
+# Logs / outputs
+run.log
+results/

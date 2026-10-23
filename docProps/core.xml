@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties xmlns="http://schemas.openxmlformats.org/package/2006/core-properties">
+  <core:creator>Student</core:creator>
+  <core:lastModifiedBy>Student</core:creator>
+  <core:created>2026-10-10T00:00:00</core:created>
+  <core:lastContentModified>2026-10-10T00:00:00</core:lastContentModified>
+  <core:category>Prototype Documentation</core:category>
+  <core:description>CloudSim Dynamic Task Scheduling Project - College Prototype</core:description>
+  <core:title>CloudSim Dynamic Task Scheduling Project</core:title>
+</Properties>
